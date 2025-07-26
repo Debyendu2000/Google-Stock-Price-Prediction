@@ -4,10 +4,6 @@ A machine learning project focused on predicting Google stock prices using vario
 
 ---
 
-## 👤 Author
-**Debyendu Routh**
-
----
 
 ## 🎯 Objective
 To predict Google's stock closing prices using regression models. This helps understand the relationship between stock features and closing price, and evaluate how well different algorithms generalize.
