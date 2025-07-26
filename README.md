@@ -11,7 +11,7 @@ To predict Google's stock closing prices using regression models. This helps und
 ---
 
 ## 📚 Dataset
-- **Source**: Yahoo Finance
+- **Source**: [Yahoo Finance](https://www.kaggle.com/datasets/alirezajavid1999/google-stock-2010-2023/data)
 - **Target Variable**: Closing Price (`Close`)
 - **Features Used**:
   - `Open`, `High`, `Low`, `Volume`, etc.
