@@ -29,8 +29,8 @@ To predict Google's stock closing prices using regression models. This helps und
 ## ⚙️ Models Implemented
 - Linear Regression
 - Ridge Regression (`alpha=0.1`, `0.5`, `1`)
-- Lasso Regression (alpha = 0.1, 0.001, 0.000001)
-- ElasticNet Regression(alpha = 0.1, 0.001, 0.00001)
+- Lasso Regression (`alpha = 0.1`, `0.001`, `0.000001`)
+- ElasticNet Regression(`alpha = 0.1`, `0.001`, `0.00001`)
 - BUt when the one of the iterative optimization algorithms , gradient descent has been applied to optimize the loss function in Linear regression it outperforms(Stochastic Gradient Descent (SGD))
 
 ---
